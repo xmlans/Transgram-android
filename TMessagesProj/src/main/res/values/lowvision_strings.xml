@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="lowvision_focus_overlay" />
+    <string name="TgLowVisionHeader">Low vision</string>
+    <string name="TgLowVisionMessageSize">Message text size</string>
+    <string name="TgLowVisionUiSize">Interface text size</string>
+    <string name="TgLowVisionControls">Larger controls</string>
+    <string name="TgLowVisionFocus">Clear focus outlines</string>
+    <string name="TgLowVisionContrast">High contrast interface</string>
+    <string name="TgLowVisionInfo">Works independently of TalkBack and speech. Interface size affects common settings, dialogs and supported labels. Larger controls increase common settings rows and dialog buttons. Focus outlines mark keyboard and accessibility focus. Contrast improves supported interface text without changing your saved theme, message bubbles or media. Some custom screens keep their original sizing.</string>
+</resources>

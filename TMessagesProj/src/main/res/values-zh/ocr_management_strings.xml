@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TgOcrManage">OCR 模型管理</string>
+    <string name="TgOcrWifi">使用计费网络前询问</string>
+    <string name="TgOcrWifiInfo">从非计费网络切换到计费网络时停止下载。每次通过流量下载都需要确认。</string>
+    <string name="TgOcrBytes">已下载 %1$s / %2$s</string>
+    <string name="TgOcrStorage">占用空间：%1$s（含未完成的下载）</string>
+    <string name="TgOcrResume">继续下载</string>
+    <string name="TgOcrRetry">重试</string>
+    <string name="TgOcrCancel">取消下载（保留进度）</string>
+    <string name="TgOcrCancelling">正在停止下载…</string>
+    <string name="TgOcrDeletePartial">删除未完成的下载</string>
+    <string name="TgOcrPaused">下载已暂停，进度已保留。</string>
+    <string name="TgOcrFailed">下载失败，点击重试以继续。</string>
+    <string name="TgOcrDeleting">正在删除模型…</string>
+    <string name="TgOcrDeleteFailed">部分文件未能删除，请重试。</string>
+</resources>

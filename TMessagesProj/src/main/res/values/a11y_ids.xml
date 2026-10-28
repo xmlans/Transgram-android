@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TransGram: accessibility action ids -->
+<resources>
+    <item type="id" name="sg_act_play_pause" />
+    <item type="id" name="sg_act_seek_back" />
+    <item type="id" name="sg_act_seek_forward" />
+    <item type="id" name="sg_act_speed" />
+    <item type="id" name="sg_act_reply" />
+    <item type="id" name="sg_act_copy" />
+    <item type="id" name="sg_act_forward" />
+    <item type="id" name="sg_act_react_1" />
+    <item type="id" name="sg_act_react_2" />
+    <item type="id" name="sg_act_react_3" />
+    <item type="id" name="sg_act_react_4" />
+    <item type="id" name="sg_act_react_5" />
+    <item type="id" name="sg_act_react_6" />
+    <item type="id" name="sg_act_reactions_picker" />
+    <item type="id" name="sg_act_who_reacted" />
+    <item type="id" name="sg_act_reply_private" />
+    <item type="id" name="sg_act_edit" />
+    <item type="id" name="sg_act_delete" />
+    <item type="id" name="sg_act_pin" />
+    <item type="id" name="sg_act_unpin" />
+    <item type="id" name="sg_act_save" />
+    <item type="id" name="sg_act_share" />
+    <item type="id" name="sg_act_go_replied" />
+    <item type="id" name="sg_act_open_sender" />
+    <item type="id" name="sg_act_ocr" />
+    <item type="id" name="sg_act_select" />
+    <item type="id" name="sg_dlg_read" />
+    <item type="id" name="sg_dlg_pin" />
+    <item type="id" name="sg_dlg_mute" />
+    <item type="id" name="sg_dlg_archive" />
+    <item type="id" name="sg_dlg_folder" />
+    <item type="id" name="sg_dlg_delete" />
+    <item type="id" name="sg_nav_first_unread" />
+    <item type="id" name="sg_nav_latest" />
+    <item type="id" name="sg_nav_recent" />
+    <item type="id" name="sg_nav_next_mention" />
+    <item type="id" name="sg_nav_prev_mention" />
+    <item type="id" name="sg_nav_media" />
+    <item type="id" name="sg_nav_announce" />
+    <item type="id" name="sg_poll_submit" />
+    <item type="id" name="sg_move_up" />
+    <item type="id" name="sg_move_down" />
+    <item type="id" name="sg_send_silent" />
+    <item type="id" name="sg_send_scheduled" />
+    <item type="id" name="sg_send_uncompressed" />
+    <item type="id" name="sg_rec_toggle_mode" />
+    <item type="id" name="sg_act_open_image" />
+    <item type="id" name="ocr_download_completion" />
+</resources>

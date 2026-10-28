@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TgLowVisionHeader">低视力辅助</string>
+    <string name="TgLowVisionMessageSize">消息文字大小</string>
+    <string name="TgLowVisionUiSize">界面文字大小</string>
+    <string name="TgLowVisionControls">放大操作控件</string>
+    <string name="TgLowVisionFocus">清晰的焦点轮廓</string>
+    <string name="TgLowVisionContrast">高对比度界面</string>
+    <string name="TgLowVisionInfo">无需开启 TalkBack 或语音功能。界面字号适用于常用设置、对话框及已适配的标签。放大控件可增大常用设置行及对话框按钮。焦点轮廓标记键盘及无障碍焦点。高对比度增强已适配的界面文字，不更改已保存的主题、消息气泡或媒体。部分自定义页面仍使用原始大小。</string>
+</resources>

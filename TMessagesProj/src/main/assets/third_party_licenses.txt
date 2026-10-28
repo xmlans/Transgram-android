@@ -1,0 +1,30 @@
+TransGram
+Copyright (C) the TransGram contributors.
+
+TransGram is licensed under the GNU General Public License, version 2 only (see LICENSE).
+It is a modified version of Telegram for Android (https://github.com/DrKLO/Telegram), which is
+distributed under the same license. TransGram is an unofficial client and is not affiliated with
+Telegram.
+
+THIRD-PARTY COMPONENTS USED FOR OFFLINE TEXT RECOGNITION (OCR)
+
+Software that is part of the app
+
+  ONNX Runtime for Android 1.28.0 (com.microsoft.onnxruntime:onnxruntime-android)
+    MIT License, Copyright (c) Microsoft Corporation - https://github.com/microsoft/onnxruntime
+
+Models (not part of the app; downloaded by the user, on request, from their upstream host)
+
+  PP-OCRv5 mobile text detection, text-line direction and text recognition models and the
+  character dictionary (PaddleOCR; ONNX files as published by RapidOCR)
+    Apache License 2.0 - https://github.com/PaddlePaddle/PaddleOCR
+    Apache License 2.0 - https://github.com/RapidAI/RapidOCR
+
+LICENSING NOTE
+
+TransGram is GPL-2.0-only, like the upstream Telegram for Android. ONNX Runtime is MIT-licensed,
+which is compatible with GPL-2.0. The OCR models are Apache-2.0; they are data that the user downloads
+on request, are not linked into the program and keep their own license. The upstream project already
+ships Apache-2.0 components (for example AndroidX and ExoPlayer); the Free Software Foundation
+considers the Apache License 2.0 compatible with GPL version 3 but not with GPL version 2. Anyone who
+redistributes TransGram should keep this in mind.

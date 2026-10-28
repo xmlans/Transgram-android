@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@mipmap/transgram_background" />
+    <foreground android:drawable="@mipmap/transgram_foreground" />
+    <monochrome android:drawable="@drawable/transgram_monochrome" />
+</adaptive-icon>

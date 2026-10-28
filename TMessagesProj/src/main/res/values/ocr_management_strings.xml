@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TgOcrManage">OCR model management</string>
+    <string name="TgOcrWifi">Ask before using metered data</string>
+    <string name="TgOcrWifiInfo">Stops when an unmetered connection becomes metered. Mobile data requires confirmation for each download attempt.</string>
+    <string name="TgOcrBytes">Downloaded %1$s of %2$s</string>
+    <string name="TgOcrStorage">Storage used: %1$s (includes partial downloads)</string>
+    <string name="TgOcrResume">Continue download</string>
+    <string name="TgOcrRetry">Retry</string>
+    <string name="TgOcrCancel">Cancel download (keep progress)</string>
+    <string name="TgOcrCancelling">Stopping download…</string>
+    <string name="TgOcrDeletePartial">Delete unfinished download</string>
+    <string name="TgOcrPaused">Download paused; progress is saved.</string>
+    <string name="TgOcrFailed">Download failed. Tap Retry to continue.</string>
+    <string name="TgOcrDeleting">Removing model…</string>
+    <string name="TgOcrDeleteFailed">Could not remove all files. Please try again.</string>
+</resources>

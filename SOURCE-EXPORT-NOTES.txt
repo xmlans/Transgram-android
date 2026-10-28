@@ -1,0 +1,7 @@
+Base upstream revision: f32ffeec763f0bdbf4bec25b52d654f77bff733d
+Export: current tracked and non-ignored untracked working-tree files; no Git history.
+Google services: upstream examples with package names adjusted; configure your own Firebase project for push.
+Local API credentials and production signing key excluded.
+Nested gitlinks: []
+Missing: []
+Public certificate and test fixtures from upstream submodule HEAD: 897; errors: 0. These include published third-party test keys, not production credentials. Local modifications to these fixtures are not included.

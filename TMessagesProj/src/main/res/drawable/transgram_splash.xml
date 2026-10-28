@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TransGram: Android 12+ launch splash icon (same layers as the adaptive launcher icon; the system masks it to a circle). -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/transgram_background" />
+    <item android:drawable="@mipmap/transgram_foreground" />
+</layer-list>
